@@ -1,0 +1,17 @@
+{
+  "name": "learning-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionalProgramming3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^10.0.2",
+    "immutable": "^4.3.0",
+    "lodash": "^4.17.21"
+  }
+}

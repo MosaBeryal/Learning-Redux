@@ -1,0 +1,7 @@
+Function as a First-Class Citizens.
+
+ In javaScript functions are first class citizen we can treat them like any other variable.
+
+ __ We can assign them into a variable.
+ __ We can pass functions as an argument.
+ __ we can return it from other functions.
